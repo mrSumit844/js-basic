@@ -1,2 +1,2 @@
 # js-basic
-basic of javascript
+basic of react hooks
